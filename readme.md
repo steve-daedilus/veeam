@@ -60,4 +60,8 @@ You can use the package from the test pypi with:
 
 ## Contributing
 
+Original module written by surfer190 (https://github.com/surfer190/veeam)
+Update added and published by steve-daedilus
+
+Unless or until surfer190 is able to progress anything on this module, I'll do my best to tick it over.
 ...

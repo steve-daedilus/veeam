@@ -21,7 +21,7 @@ class VeeamClient(object):
             session = requests.Session()
         
         self.url = url
-        self.login_url = '{}/sessionMngr/?v=v1_4'.format(url)
+        self.login_url = '{}/sessionMngr/?v=latest'.format(url)
         self.verify = verify
         self.session = session
 
